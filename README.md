@@ -2,7 +2,6 @@
 
 I'm a full-ish stack web developer currently living in Naples Florida.
 
-
 I have extensive experience working with JavaScript, PHP, CSS and various frameworks and libraries connected to those technologies. I'm also skilled in tooling, accessability, UX design, DX design (often more critical!), and making things fun.
 
 Besides code specifically, my expertise lay in:
@@ -12,6 +11,6 @@ Besides code specifically, my expertise lay in:
 - **Profit-driven development** 🤑: A tricky one, but I understand the balance between making profit and over engineering. The idea being to ship often and soak in feedback. It's easy once you've mastered industry best practices and can structure code to move fast.
 
 Experience:
-- I've worked freelance for the past 15 years building websites and tools, both the wrong way and the right way (which may be the wrong way if reading this from the future)
+- I've worked freelance for the past 15 years building websites and tools, both the wrong way and the right way (which may be the wrong way if reading this from the future).
 - I've developed WordPress plugins at (with) big companies that have reached millions of users.
-- I created (and developed with others) libraries for others to use. [This one](https://github.com/alpine-collective/alpine-magic-helpers) for AlpineJS, for example, has 5m+ hits a month
+- I created (and developed with others) libraries for others to use. [This one](https://github.com/alpine-collective/alpine-magic-helpers) for AlpineJS, for example, has 5m+ hits a month.
